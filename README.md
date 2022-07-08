@@ -6,6 +6,6 @@ I using Convolution neural network for classify vehical
 
 ## What i get
 1. I trained model on Regular Data achieved 86% for data test / else with Augmentation data, I evalution with 33% Acc
-2. From that, I conclude thataudt does not always improve the accuracy of the model
+2. From that, I conclude that augmentation data does not always improve the accuracy of the model
 
 Tks for reading!
