@@ -1,0 +1,23 @@
+
+1. Giới thiệu tổng quan mạng CNN
+
+2. Kiến trúc mạng CNN
+  a. Convolution Layer
+  b. Pooling layer
+  c. Fully connected layer
+
+3. Ứng dụng CNN trong bài toán phân loại
+  a. Giới thiệu bài toán phân loại
+  b. Phương pháp giải quyết bài toán
+
+4. Tiến hành giải quyết
+  a. Chuẩn bị dataset (Craw, tiền xử lý)
+  b. Chia dataset thành 3 phần: Train, test, validation
+  c. Xây dựng kiến trúc mạng CNN
+  d. Huấn luyện models
+  e. Đánh giá models
+
+5. Demo chương trình
+
+6. Q & A
+    # https://www.youtube.com/watch?v=8AyKJxBxx0M&t=172s
